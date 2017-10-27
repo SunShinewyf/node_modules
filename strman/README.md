@@ -9,3 +9,4 @@ A Javascript string manipulation library without npm dependences.[没有任何np
 - 对字符串的处理情况都覆盖到了
 - 代码逻辑比较简单
 - 使用简单
+- 学习ES6语法
